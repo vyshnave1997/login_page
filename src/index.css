@@ -1,0 +1,11 @@
+/* Custom CSS for Parallax Effect */
+.bg-parallax {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Additional custom styles */
